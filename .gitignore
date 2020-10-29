@@ -1,2 +1,6 @@
 catkin_ws/devel/*
 catkin_ws/build/*
+catkin_ws/build/catkin_make.cache
+catkin_ws/build/CMakeFiles/CMakeOutput.log
+catkin_ws/build/CMakeFiles/3.10.2/CMakeCCompiler.cmake
+../.vscode/*

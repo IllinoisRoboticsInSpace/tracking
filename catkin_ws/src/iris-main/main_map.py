@@ -12,7 +12,13 @@ def placeholder():
     # - Any other sensors (none as of now)
 
     # update local map data structure as sensor data determines
-    pass
+    # pass
+    
+    rospy.init_node('main_map')
+
+    # TODO
+
+    rospy.spin()    # Keep python from exiting until the node is stopped
 
 def process_sensor_input(): # rename this function and write it
 
